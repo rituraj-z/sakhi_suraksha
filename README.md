@@ -2,9 +2,18 @@
 
 Sakhi Suraksha is a **cross-platform mobile application** meticulously engineered with **Flutter** to provide real-time assistance and enhanced safety for women during travel. In an increasingly interconnected world, ensuring personal safety, especially in unfamiliar environments, is paramount. Sakhi Suraksha addresses this critical need by offering a comprehensive suite of features designed to empower users with immediate support and peace of mind.
 
-## Problem Statement
+<br>
 
-The lack of immediate, reliable assistance in threatening situations during travel poses a significant risk to women. Existing solutions often lack the integration of real-time communication, AI-powered guidance, and seamless accessibility across various devices, leaving users vulnerable. Sakhi Suraksha aims to bridge this gap by providing a holistic, proactive safety solution, leveraging Flutter's ability to build performant and beautiful native applications from a single codebase.
+## Screenshots
+
+<div align="center">
+  <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Sign%20In.jpg" alt="Sign In Screen" width="150px" style="margin: 5px;">
+  <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Home%20Screen%201.jpg" alt="Home Screen" width="150px" style="margin: 5px;">
+  <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Emergency%20Contacts.jpg" alt="Emergency Contacts Screen" width="150px" style="margin: 5px;">
+  <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Ai%20Chat%201.jpg" alt="AI Chat Screen" width="150px" style="margin: 5px;">
+  <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Settings%20Screen.jpg" alt="Settings Screen" width="150px" style="margin: 5px;">
+  <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Shake%20Trigger.jpg" alt="Shake Trigger Screen" width="150px" style="margin: 5px;">
+</div>
 
 ---
 
