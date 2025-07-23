@@ -12,7 +12,6 @@ Sakhi Suraksha is a **cross-platform Flutter app** providing real-time assistanc
   <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Emergency%20Contacts.jpg" alt="Emergency Contacts Screen" width="150px" style="margin: 5px;">
   <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Ai%20Chat%201.jpg" alt="AI Chat Screen" width="150px" style="margin: 5px;">
   <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Settings%20Screen.jpg" alt="Settings Screen" width="150px" style="margin: 5px;">
-  <img src="https://github.com/rituraj-z/sakhi_suraksha/blob/main/screenshots/Shake%20Trigger.jpg" alt="Shake Trigger Screen" width="150px" style="margin: 5px;">
 </div>
 
 ---
