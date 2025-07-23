@@ -7,9 +7,9 @@ import 'home_navigation.dart';
 List<CameraDescription> cameras =
     []; 
 
-const SUPABASE_URL = 'https://ejaszjmffqsniquhzvfb.supabase.co';
+const SUPABASE_URL = '';
 const SUPABASE_ANON_KEY =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVqYXN6am1mZnFzbmlxdWh6dmZiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTI1NzA5NTgsImV4cCI6MjA2ODE0Njk1OH0.HX3ije8OMs435GTUSDOM0HV2_eNc_yIONdcZXv-J4lo';
+    '';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
