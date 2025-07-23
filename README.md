@@ -91,6 +91,6 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Ritu Raj - [https://www.linkedin.com/in/ritu-raj-9684b0373/]
+Ritu Raj - [LinkedIn](https://www.linkedin.com/in/ritu-raj-9684b0373/)
 
-Project Link: [https://github.com/rituraj-z/sakhi_suraksha/](https://github.com/rituraj-z/sakhi_suraksha/)
+Project Link: [GitHub](https://github.com/rituraj-z/sakhi_suraksha/)
