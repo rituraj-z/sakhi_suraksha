@@ -51,11 +51,11 @@ To run Sakhi Suraksha locally:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/Sakhi-Suraksha.git](https://github.com/your-username/Sakhi-Suraksha.git)
+    git clone [https://github.com/rituraj-z/sakhi_suraksha.git](https://github.com/rituraj-z/sakhi_suraksha.git)
     ```
 2.  Navigate to project:
     ```bash
-    cd Sakhi-Suraksha
+    cd sakhi_suraksha
     ```
 3.  Install dependencies:
     ```bash
